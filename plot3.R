@@ -17,8 +17,5 @@ legend("topright", col=c("black", "red", "blue"), lty=1, lwd=2,
 
 ## Saving to file
 dev.copy(png, file="plot3.png", height=480, width=480)
-## png 
-##   3
+
 dev.off()
-## png 
-##   2
